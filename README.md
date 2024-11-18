@@ -29,5 +29,5 @@
 
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/arshman-ahmad-334829298)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/)
 - 🌐 [Fiverr](https://www.fiverr.com/arsh153?)
