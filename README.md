@@ -4,7 +4,7 @@
 - 🌱 I’m a React and React Native Developer.
 - 🎓 Currently studying at **UE Multan Campus**.
 - 🛠️ I have over 3 years of experience in Web and App Development.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/arshman) | [Fiverr](https://fiverr.com/arshman123)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/arshman-ahmad-334829298) | [Fiverr](https://fiverr.com/arshman123)
 
 ## 🧑‍💻 Skills
 ![React](https://img.shields.io/badge/React-17.0-blue)
