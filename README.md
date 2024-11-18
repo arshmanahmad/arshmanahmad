@@ -17,7 +17,7 @@
 ## 🌟 Projects
 - 🚀 [HR Management Portal](https://github.com/arshman123/hr-management)
 - 📊 [Task Tracker App](https://github.com/arshman123/task-tracker)
- 🤖 [AI Chat App](https://github.com/arshman123/nurse-ai-hub)
+- 🤖 [AI Chat App](https://github.com/arshman123/nurse-ai-hub)
 
 ## 📊 GitHub Stats
 ![Arshman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshmanahmad&show_icons=true&theme=radical)
