@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Arshman!
 
 ## 🚀 About Me
-- 🌱 I’m a MERN Stack Developer.
+- 🌱 I’m a Full Stack Developer.
 - 🎓 Currently studying at **UE Multan Campus**.
-- 🛠️ I have over 3 years of experience in Web App Development, also having good experience in android applications.
+- 🛠️ I have over 4 years of experience in Web App Development, also having good experience in android applications.
+-  🛠️ Next js, React, Python, Tailwind, Nest js and others.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/) | [Fiverr](https://www.fiverr.com/arsh153?)
 
 ## 👀 Profile Views
