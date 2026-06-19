@@ -29,5 +29,4 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/)  
-- 🌐 [Fiverr](https://www.fiverr.com/arsh153?)  
-- 🌍 [Portfolio](https://my-profile-vert-two.vercel.app/)
+- 🌍 [Portfolio](https://dev.smarledger.com/)
