@@ -4,7 +4,7 @@
 - 🌱 Full-Stack Developer with 4+ years in web & Android app development  
 - 🎓 Computer Science
 - 🛠️ Tech Stack: Next.js, React, React Native, TypeScript, Node.js, Tailwind, Nest.js, Python  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/) | [Fiverr](https://www.fiverr.com/arsh153?) | [Portfolio](https://my-profile-vert-two.vercel.app/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/) |  | [Portfolio](https://dev.smarledger.com)
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=arshmanahmad&color=blue&style=flat-square)
