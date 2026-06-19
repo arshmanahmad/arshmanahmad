@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Arshman!
 
 ## 🚀 About Me
-- 🌱 Full-Stack Developer with 4+ years in web & Android app development  
+- 🌱 Full-Stack Developer with 5+ years in web & Android app development  
 - 🎓 Computer Science
 - 🛠️ Tech Stack: Next.js, React, React Native, TypeScript, Node.js, Tailwind, Nest.js, Python  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arshman-ahmad-334829298/) |  | [Portfolio](https://dev.smarledger.com)
