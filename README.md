@@ -95,9 +95,6 @@ Stealth Node.js + Playwright scraper for Ali1688 product pages. Mimics human beh
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-yourname.vercel.app/api?username=arshmanahmad&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=arshmanahmad&layout=compact&theme=radical&hide_border=true" width="38%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshmanahmad&theme=radical&hide_border=true" width="60%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arshmanahmad&color=blue&style=for-the-badge)
