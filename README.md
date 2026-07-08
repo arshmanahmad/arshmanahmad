@@ -2,7 +2,7 @@
 
 # Hi, I'm Arshman 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+%26+AI+Engineer;Building+AI-Powered+SaaS+Products;Automation+%7C+LLMs+%7C+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Engineer;Building+AI-Powered+SaaS+Products;Automation+%7C+LLMs+%7C+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
 
